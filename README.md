@@ -3,7 +3,7 @@
 
 |   Contributions   |   Language Preference   |
 | ---- | ---- |
-|   ![](https://github-readme-stats.vercel.app/api?username=salan668&count_private=true&show_icons=true&theme=radical)   |![](https://github-readme-stats.vercel.app/api/top-langs/?username=salan668&count_private=true&show_icons=true&theme=radical&layout=compact)|
+|   ![](https://github-readme-stats.vercel.app/api?username=salan668&count_private=true&show_icons=true&theme=onedark)   |![](https://github-readme-stats.vercel.app/api/top-langs/?username=salan668&count_private=true&show_icons=true&theme=onedark&layout=compact)|
 
 <!--
 **salan668/salan668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
